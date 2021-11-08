@@ -17,6 +17,7 @@ a, li{
 img{
     border-radius: 3px;
 }
+
 .navigation-bar{
  display: grid;
  grid-template-columns: repeat(7, 1fr);
@@ -130,6 +131,10 @@ img{
     font-size: 1.2em;
     cursor: pointer;
     letter-spacing: 1px;
+    font-family: 'Archivo Narrow', sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
 }
 .container-1 button:hover{
   opacity: 90%;
@@ -301,3 +306,6 @@ h2{
     font-size: 3em;
     margin: 0;
 }
+
+
+
